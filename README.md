@@ -8,19 +8,19 @@ Badge signature Celavi pour sites web React + Tailwind.
 
 ```bash
 # Avec npm
-npm install github:ton-username/celavi-badge
+npm install github:vinzcelavi/celavi-badge
 
 # Avec yarn
-yarn add github:ton-username/celavi-badge
+yarn add github:vinzcelavi/celavi-badge
 
 # Avec pnpm
-pnpm add github:ton-username/celavi-badge
+pnpm add github:vinzcelavi/celavi-badge
 ```
 
 ### Depuis une release spécifique
 
 ```bash
-npm install github:ton-username/celavi-badge#v1.0.0
+npm install github:vinzcelavi/celavi-badge#v1.0.0
 ```
 
 ## Prérequis
@@ -121,7 +121,7 @@ import { CelaviIcon } from '@celavi/badge';
 
 ```bash
 # Cloner le repo
-git clone https://github.com/ton-username/celavi-badge.git
+git clone https://github.com/vinzcelavi/celavi-badge.git
 cd celavi-badge
 
 # Installer les dépendances
